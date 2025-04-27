@@ -33,7 +33,7 @@ namespace SharpShell.Tests.Diagnostics.Loggers
 
             //  Expect an ISO8601-ish datetime (ish as we have a space rather than a 'T'.
             var rexDatetime = new Regex(@"^\d{4}-\d{2}-\d{2} \d{2}\:\d{2}\:\d{2}");
-            Assert.That(rexDatetime.Matches(line ?? string.Empty).Count, Is.GreaterThan(0));
+            ClassicAssert.That(rexDatetime.Matches(line ?? string.Empty).Count, Is.GreaterThan(0));
         }
 
         [Test]
@@ -43,7 +43,7 @@ namespace SharpShell.Tests.Diagnostics.Loggers
             var line = LogLine("Test message");
 
             //  Expect the process name is present.
-            Assert.That(line.IndexOf(Process.GetCurrentProcess().ProcessName, StringComparison.Ordinal), Is.Not.EqualTo(-1));
+            ClassicAssert.That(line.IndexOf(Process.GetCurrentProcess().ProcessName, StringComparison.Ordinal), Is.Not.EqualTo(-1));
         }
 
         [Test]
@@ -53,7 +53,7 @@ namespace SharpShell.Tests.Diagnostics.Loggers
             var line = LogLine("Test message");
 
             //  Expect the process name is present.
-            Assert.That(line.IndexOf("Test message", StringComparison.Ordinal), Is.Not.EqualTo(-1));
+            ClassicAssert.That(line.IndexOf("Test message", StringComparison.Ordinal), Is.Not.EqualTo(-1));
         }
     }
 }

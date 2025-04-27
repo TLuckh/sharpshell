@@ -22,7 +22,7 @@ namespace SharpShell.Tests.Registry
             }
 
             var print = registry.Print(RegistryView.Registry64);
-            Assert.That(print, Is.EqualTo(
+            ClassicAssert.That(print, Is.EqualTo(
 @"HKEY_CURRENT_USER
    Address
       City = Singapore
@@ -60,7 +60,7 @@ namespace SharpShell.Tests.Registry
                (Default) = {11111111-2222-3333-4444-555555555555}");
 
             var print = registry.Print(RegistryView.Registry32);
-            Assert.That(print, Is.EqualTo(
+            ClassicAssert.That(print, Is.EqualTo(
 @"HKEY_CLASSES_ROOT
    .myp
       (Default) = MyProgram.1
@@ -94,11 +94,11 @@ namespace SharpShell.Tests.Registry
 @"HKEY_CLASSES_ROOT
     .myp
       (Default) = MyProgram.1");
-                Assert.Fail("SetStructure should throw.");
+                ClassicAssert.Fail("SetStructure should throw.");
             }
             catch (Exception e)
             {
-                Assert.That(e.Message, Contains.Substring("multiple of three"));
+                ClassicAssert.That(e.Message, Contains.Substring("multiple of three"));
             }
         }
 
@@ -112,11 +112,11 @@ namespace SharpShell.Tests.Registry
 @"HKEY_USERS_ROOT
    .myp
       (Default) = MyProgram.1");
-                Assert.Fail("SetStructure should throw.");
+                ClassicAssert.Fail("SetStructure should throw.");
             }
             catch (Exception e)
             {
-                Assert.That(e.Message, Contains.Substring("not a known registry hive"));
+                ClassicAssert.That(e.Message, Contains.Substring("not a known registry hive"));
             }
         }
 
@@ -130,11 +130,11 @@ namespace SharpShell.Tests.Registry
 @"HKEY_CLASSES_ROOT
    .myp
             (Default) = MyProgram.1");
-                Assert.Fail("SetStructure should throw.");
+                ClassicAssert.Fail("SetStructure should throw.");
             }
             catch (Exception e)
             {
-                Assert.That(e.Message, Contains.Substring("invalid depth"));
+                ClassicAssert.That(e.Message, Contains.Substring("invalid depth"));
             }
         }
     }

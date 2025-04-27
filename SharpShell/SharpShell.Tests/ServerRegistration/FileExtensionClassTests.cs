@@ -18,13 +18,13 @@ namespace SharpShell.Tests.ServerRegistration
             {
                 var registry = new InMemoryRegistry();
                 FileExtensionClass.Get(registry.OpenBaseKey(RegistryHive.ClassesRoot, RegistryView.Default), extension, false);
-                Assert.Fail($@"An exception should be thrown for extension '{extension}'");
+                ClassicAssert.Fail($@"An exception should be thrown for extension '{extension}'");
             }
             catch (Exception exception)
             {
                 //  We should have an exception which includes the invalid extension in the message.
                 if(!string.IsNullOrEmpty(extension))
-                    Assert.That(exception.Message, Contains.Substring(extension));
+                    ClassicAssert.That(exception.Message, Contains.Substring(extension));
             }
         }
 
@@ -34,7 +34,7 @@ namespace SharpShell.Tests.ServerRegistration
             //  Given an empty registry, we should return null for the class of any extension.
             var registry = new InMemoryRegistry();
             var className = FileExtensionClass.Get(registry.OpenBaseKey(RegistryHive.ClassesRoot, RegistryView.Default), ".some_type", false);
-            Assert.That(className, Is.Null);
+            ClassicAssert.That(className, Is.Null);
         }
     }
 }

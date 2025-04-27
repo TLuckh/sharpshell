@@ -11,7 +11,7 @@ namespace SharpShell.Tests.ServiceRegistry
         {
             //  By default, the service registry should provide a WindowsRegsitry for IRegistry.
             var registry = SharpShell.ServiceRegistry.ServiceRegistry.GetService<IRegistry>();
-            Assert.IsInstanceOf(typeof(WindowsRegistry), registry);
+            ClassicAssert.IsInstanceOf(typeof(WindowsRegistry), registry);
         }
 
         [Test]
@@ -31,8 +31,8 @@ namespace SharpShell.Tests.ServiceRegistry
             var service = SharpShell.ServiceRegistry.ServiceRegistry.GetService<IRegistry>();
 
             //  Assert we called our custom function, and created the service.
-            Assert.IsTrue(serviceProviderCalled);
-            Assert.AreSame(windowsRegistry, service);
+            ClassicAssert.IsTrue(serviceProviderCalled);
+            ClassicAssert.AreSame(windowsRegistry, service);
         }
 
         [Test]
@@ -42,11 +42,11 @@ namespace SharpShell.Tests.ServiceRegistry
             try
             {
                 SharpShell.ServiceRegistry.ServiceRegistry.GetService<IDisposable>();
-                Assert.Fail("GetService should throw an exception.");
+                ClassicAssert.Fail("GetService should throw an exception.");
             }
             catch (Exception exception)
             {
-                Assert.That(exception.Message, Contains.Substring("IDisposable"));
+                ClassicAssert.That(exception.Message, Contains.Substring("IDisposable"));
             }
         }
     }

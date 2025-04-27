@@ -15,8 +15,8 @@ namespace SharpShell.Tests.Registry
             using (var key = registry.OpenBaseKey(RegistryHive.CurrentUser, RegistryView.Registry64))
             {
                 key.SetValue(null, @"Default");
-                Assert.That(key.GetValue(null), Is.EqualTo(@"Default"));
-                Assert.That(key.GetValue(null, "(This is used if missing)"), Is.EqualTo(@"Default"));
+                ClassicAssert.That(key.GetValue(null), Is.EqualTo(@"Default"));
+                ClassicAssert.That(key.GetValue(null, "(This is used if missing)"), Is.EqualTo(@"Default"));
             }
         }
 
@@ -27,7 +27,7 @@ namespace SharpShell.Tests.Registry
             using (var key = registry.OpenBaseKey(RegistryHive.CurrentUser, RegistryView.Registry64))
             {
                 var subkey = key.OpenSubKey("Missing");
-                Assert.That(subkey, Is.Null);
+                ClassicAssert.That(subkey, Is.Null);
             }
         }
 
@@ -38,7 +38,7 @@ namespace SharpShell.Tests.Registry
             using (var key = registry.OpenBaseKey(RegistryHive.CurrentUser, RegistryView.Registry64))
             {
                 var subkey = key.OpenSubKey(@"Deep\Subkey");
-                Assert.That(subkey, Is.Null);
+                ClassicAssert.That(subkey, Is.Null);
             }
         }
     }

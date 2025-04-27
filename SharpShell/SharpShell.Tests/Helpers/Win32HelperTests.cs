@@ -17,7 +17,7 @@ namespace SharpShell.Tests.Helpers
             var dimensions = new IntPtr(1024 + (768 << 16));
             
             //  Assert we can grab the loword.
-            Assert.That(Win32Helper.LoWord(dimensions), Is.EqualTo(1024));
+            ClassicAssert.That(Win32Helper.LoWord(dimensions), Is.EqualTo(1024));
         }
 
         [Test]
@@ -27,7 +27,7 @@ namespace SharpShell.Tests.Helpers
             var dimensions = new IntPtr(1024 + (768 << 16));
 
             //  Assert we can grab the loword.
-            Assert.That(Win32Helper.HiWord(dimensions), Is.EqualTo(768));
+            ClassicAssert.That(Win32Helper.HiWord(dimensions), Is.EqualTo(768));
         }
 
         [Test]
@@ -35,7 +35,7 @@ namespace SharpShell.Tests.Helpers
         {
             //  Anything which has a zero high-word is assumed to be an int.
             var resource = new IntPtr((int)Math.Pow(2, 16) - 1);
-            Assert.That(Win32Helper.IS_INTRESOURCE(resource), Is.True);
+            ClassicAssert.That(Win32Helper.IS_INTRESOURCE(resource), Is.True);
         }
 
         [Test]
@@ -43,7 +43,7 @@ namespace SharpShell.Tests.Helpers
         {
             //  Anything which has any bit set in the high word is assumed to not be an int.
             var resource = new IntPtr((int)Math.Pow(2, 16));
-            Assert.That(Win32Helper.IS_INTRESOURCE(resource), Is.False);
+            ClassicAssert.That(Win32Helper.IS_INTRESOURCE(resource), Is.False);
         }
 
         [Test]
@@ -51,7 +51,7 @@ namespace SharpShell.Tests.Helpers
         {
             //  A string pointer should definitely be identified as an int resource.
             var resource = Marshal.StringToHGlobalUni("Resource Name");
-            Assert.That(Win32Helper.IS_INTRESOURCE(resource), Is.False);
+            ClassicAssert.That(Win32Helper.IS_INTRESOURCE(resource), Is.False);
             Marshal.FreeHGlobal(resource);
         }
     }

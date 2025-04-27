@@ -57,7 +57,7 @@ namespace SharpShell.Tests.ServerRegistration
 
             //  Assert we have the new extention.
             var print = _registry.Print(RegistryView.Registry64);
-            Assert.That(print, Is.EqualTo(string.Join(Environment.NewLine,
+            ClassicAssert.That(print, Is.EqualTo(string.Join(Environment.NewLine,
                 @"HKEY_CLASSES_ROOT",
                 @"   .exe",
                 @"      (Default) = exefile",
@@ -91,7 +91,7 @@ namespace SharpShell.Tests.ServerRegistration
 
             //  Assert we have the new extention.
             var print = _registry.Print(RegistryView.Registry64);
-            Assert.That(print, Is.EqualTo(string.Join(Environment.NewLine,
+            ClassicAssert.That(print, Is.EqualTo(string.Join(Environment.NewLine,
                 @"HKEY_CLASSES_ROOT",
                 @"   .myfile",
                 @"      (Default) = myfile.1",
@@ -132,11 +132,11 @@ namespace SharpShell.Tests.ServerRegistration
                 var associations = new[] { new COMServerAssociationAttribute(AssociationType.ClassOfExtension, ".myfile") };
                 var registrationType = RegistrationType.OS64Bit;
                 ServerRegistrationManager.RegisterServerAssociations(clsid, serverType, serverName, associations, registrationType);
-                Assert.Fail(@"Server registration should fail");
+                ClassicAssert.Fail(@"Server registration should fail");
             }
             catch (Exception exception)
             {
-                Assert.That(exception.Message, Contains.Substring("myfile.1"), @"The exception message must contain the failing class id.");
+                ClassicAssert.That(exception.Message, Contains.Substring("myfile.1"), @"The exception message must contain the failing class id.");
 
                 //  TODO: I would like to see a log message asserted here, such as:
                 //  Assert.That(mostRecentLog, Contains.Substring("myfile.1"));
@@ -158,7 +158,7 @@ namespace SharpShell.Tests.ServerRegistration
 
             //  Assert we have the new extention.
             var print = _registry.Print(RegistryView.Registry64);
-            Assert.That(print, Is.EqualTo(string.Join(Environment.NewLine,
+            ClassicAssert.That(print, Is.EqualTo(string.Join(Environment.NewLine,
                 @"HKEY_CLASSES_ROOT",
                 @"   .myfile",
                 @"      (Default) = myfile.1",

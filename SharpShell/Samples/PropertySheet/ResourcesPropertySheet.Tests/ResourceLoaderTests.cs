@@ -25,28 +25,28 @@ namespace ResourcesPropertySheet.Tests
             var resourceTypeStrings = resources.Select(rt => rt.ResourceType.ToString()).ToArray();
 
             //  Assert we have the expected set of resource types.
-            Assert.Contains("Bitmap", resourceTypeStrings);
-            Assert.Contains("Cursor", resourceTypeStrings);
-            Assert.Contains("Dialog", resourceTypeStrings);
-            Assert.Contains("HTML", resourceTypeStrings);
-            Assert.Contains("Group Cursor", resourceTypeStrings);
-            Assert.Contains("Group Icon", resourceTypeStrings);
-            Assert.Contains("Icon", resourceTypeStrings);
-            Assert.Contains("Menu", resourceTypeStrings);
-            Assert.Contains("\"PNG\"", resourceTypeStrings);
-            Assert.Contains("RT_MANIFEST", resourceTypeStrings);
-            Assert.Contains("\"RT_RIBBON_XML\"", resourceTypeStrings);
-            Assert.Contains("241", resourceTypeStrings); // toolbars
-            Assert.Contains("Version", resourceTypeStrings);
+            ClassicAssert.Contains("Bitmap", resourceTypeStrings);
+            ClassicAssert.Contains("Cursor", resourceTypeStrings);
+            ClassicAssert.Contains("Dialog", resourceTypeStrings);
+            ClassicAssert.Contains("HTML", resourceTypeStrings);
+            ClassicAssert.Contains("Group Cursor", resourceTypeStrings);
+            ClassicAssert.Contains("Group Icon", resourceTypeStrings);
+            ClassicAssert.Contains("Icon", resourceTypeStrings);
+            ClassicAssert.Contains("Menu", resourceTypeStrings);
+            ClassicAssert.Contains("\"PNG\"", resourceTypeStrings);
+            ClassicAssert.Contains("RT_MANIFEST", resourceTypeStrings);
+            ClassicAssert.Contains("\"RT_RIBBON_XML\"", resourceTypeStrings);
+            ClassicAssert.Contains("241", resourceTypeStrings); // toolbars
+            ClassicAssert.Contains("Version", resourceTypeStrings);
 
             //  Check we have loaded a bitmap property.
             var bitmaps = resources.Single(rt => rt.ResourceType.IsKnownResourceType(ResType.RT_BITMAP));
             var bitmap103 = bitmaps.Resouces.Single(b => b.ResourceName.IsInt && b.ResourceName.IntValue == 103);
-            Assert.AreEqual(bitmap103.ResourceName.IsInt, true);
-            Assert.AreEqual(bitmap103.ResourceName.IntValue, 103);
-            Assert.AreEqual(bitmap103.ResourceName.ToString(), "103");
-            Assert.AreEqual(bitmap103.BitmapData.Width, 48);
-            Assert.AreEqual(bitmap103.BitmapData.Height, 48);
+            ClassicAssert.AreEqual(bitmap103.ResourceName.IsInt, true);
+            ClassicAssert.AreEqual(bitmap103.ResourceName.IntValue, 103);
+            ClassicAssert.AreEqual(bitmap103.ResourceName.ToString(), "103");
+            ClassicAssert.AreEqual(bitmap103.BitmapData.Width, 48);
+            ClassicAssert.AreEqual(bitmap103.BitmapData.Height, 48);
         }
     }
 }

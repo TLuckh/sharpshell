@@ -13,7 +13,7 @@ namespace SharpShell.Tests.Registry
             var registry = new WindowsRegistry();
             using (var usersKey = registry.OpenBaseKey(RegistryHive.CurrentUser, RegistryView.Default))
             {
-                Assert.That(usersKey.Name, Is.EqualTo("HKEY_CURRENT_USER"));
+                ClassicAssert.That(usersKey.Name, Is.EqualTo("HKEY_CURRENT_USER"));
             }
         }
     }

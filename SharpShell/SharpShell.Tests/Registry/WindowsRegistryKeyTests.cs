@@ -33,9 +33,9 @@ namespace SharpShell.Tests.Registry
             using (var usersKey = registry.OpenBaseKey(RegistryHive.CurrentUser, RegistryView.Default))
             using (var subkey = usersKey.CreateSubKey("SharpShellTests"))
             {
-                Assert.That(subkey.Name, Is.EqualTo(@"HKEY_CURRENT_USER\SharpShellTests"));
+                ClassicAssert.That(subkey.Name, Is.EqualTo(@"HKEY_CURRENT_USER\SharpShellTests"));
                 usersKey.DeleteSubKeyTree("SharpShellTests");
-                Assert.That(usersKey.GetSubKeyNames(), Does.Not.Contain("SharpShellTests"));
+                ClassicAssert.That(usersKey.GetSubKeyNames(), Does.Not.Contain("SharpShellTests"));
             }
         }
 
@@ -49,22 +49,22 @@ namespace SharpShell.Tests.Registry
                 //  Set a value, check it is set, check unset values are not set.
                 var testValue = new Guid().ToString();
                 subkey.SetValue("TestString", testValue);
-                Assert.That(subkey.GetValue("TestString"), Is.EqualTo(testValue));
+                ClassicAssert.That(subkey.GetValue("TestString"), Is.EqualTo(testValue));
                 subkey.SetValue("TestExpandString", testValue, RegistryValueKind.ExpandString);
 
                 //  Delete the value, and make sure it is no longer present.
                 subkey.DeleteValue("TestString");
-                Assert.That(subkey.GetValueNames(), Does.Not.Contain("TestString"));
+                ClassicAssert.That(subkey.GetValueNames(), Does.Not.Contain("TestString"));
                 subkey.DeleteValue("TestExpandString");
-                Assert.That(subkey.GetValueNames(), Does.Not.Contain("TestExpandString"));
+                ClassicAssert.That(subkey.GetValueNames(), Does.Not.Contain("TestExpandString"));
 
                 //  Make sure missing values are returned properly.
-                Assert.That(subkey.GetValue("TestString"), Is.Null);
-                Assert.That(subkey.GetValue("TestExpandString", "DefaultValue"), Is.EqualTo("DefaultValue"));
+                ClassicAssert.That(subkey.GetValue("TestString"), Is.Null);
+                ClassicAssert.That(subkey.GetValue("TestExpandString", "DefaultValue"), Is.EqualTo("DefaultValue"));
 
                 //  If we delete a value which is missing, we should be able to choose whether to throw or now.
-                Assert.DoesNotThrow(() => subkey.DeleteValue("TestString", false));
-                Assert.Throws<ArgumentException>(() => subkey.DeleteValue("TestString", true));
+                ClassicAssert.DoesNotThrow(() => subkey.DeleteValue("TestString", false));
+                ClassicAssert.Throws<ArgumentException>(() => subkey.DeleteValue("TestString", true));
             }
         }
 
@@ -75,7 +75,7 @@ namespace SharpShell.Tests.Registry
             using (var usersKey = registry.OpenBaseKey(RegistryHive.CurrentUser, RegistryView.Default))
             using (var subkey = usersKey.CreateSubKey("SharpShellTests"))
             {
-                Assert.That(subkey.OpenSubKey("MissingSubkey"), Is.Null);
+                ClassicAssert.That(subkey.OpenSubKey("MissingSubkey"), Is.Null);
             }
         }
     }
