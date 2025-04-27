@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NUnit.Framework.Legacy;
+using System;
 using System.Windows.Forms;
 using SharpShell.Attributes;
 using IDataObject = System.Runtime.InteropServices.ComTypes.IDataObject;

@@ -1,3 +1,4 @@
+using NUnit.Framework.Legacy;
 ﻿using System.Runtime.InteropServices;
 using System.Windows.Forms;
 using SharpShell.Attributes;

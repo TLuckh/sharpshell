@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+using NUnit.Framework.Legacy;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

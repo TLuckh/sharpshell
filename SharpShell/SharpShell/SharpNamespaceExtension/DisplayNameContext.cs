@@ -1,4 +1,5 @@
-﻿namespace SharpShell.SharpNamespaceExtension
+﻿using NUnit.Framework.Legacy;
+namespace SharpShell.SharpNamespaceExtension
 {
     /// <summary>
     /// The context that a Display Name will be used in, see <see cref="IShellNamespaceItem.GetDisplayName"/>

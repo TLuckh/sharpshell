@@ -1,4 +1,5 @@
-﻿namespace AbcPreviewHandler
+﻿using NUnit.Framework.Legacy;
+namespace AbcPreviewHandler
 {
     partial class AbcPreviewHandlerControl
     {

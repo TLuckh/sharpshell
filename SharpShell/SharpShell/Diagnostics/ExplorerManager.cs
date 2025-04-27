@@ -1,3 +1,4 @@
+using NUnit.Framework.Legacy;
 using System.Diagnostics;
 using System.Linq;
 

@@ -1,4 +1,5 @@
-﻿namespace IconPreviewHandler
+﻿using NUnit.Framework.Legacy;
+namespace IconPreviewHandler
 {
     partial class IconPreviewHandlerControl
     {

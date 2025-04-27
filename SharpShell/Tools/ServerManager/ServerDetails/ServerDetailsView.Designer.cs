@@ -1,4 +1,5 @@
-﻿namespace ServerManager.ServerDetails
+﻿using NUnit.Framework.Legacy;
+namespace ServerManager.ServerDetails
 {
     partial class ServerDetailsView
     {

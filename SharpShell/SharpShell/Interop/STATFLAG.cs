@@ -1,4 +1,5 @@
-﻿namespace SharpShell.Interop
+﻿using NUnit.Framework.Legacy;
+namespace SharpShell.Interop
 {
     /// <summary>
     /// The STATFLAG enumeration values indicate whether the method should try to return a name in 

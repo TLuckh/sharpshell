@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NUnit.Framework.Legacy;
+using System;
 using SharpShell.Interop;
 #pragma warning disable 1591
 

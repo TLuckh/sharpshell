@@ -1,3 +1,4 @@
+using NUnit.Framework.Legacy;
 using System.Runtime.InteropServices;
 
 namespace SharpShell.Interop

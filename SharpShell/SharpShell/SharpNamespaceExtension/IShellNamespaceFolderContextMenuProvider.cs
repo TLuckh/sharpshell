@@ -1,4 +1,5 @@
-﻿using SharpShell.Interop;
+﻿using NUnit.Framework.Legacy;
+using SharpShell.Interop;
 using SharpShell.Pidl;
 using SharpShell.SharpContextMenu;
 

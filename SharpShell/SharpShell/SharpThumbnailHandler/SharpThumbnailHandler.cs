@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NUnit.Framework.Legacy;
+using System;
 using System.ComponentModel;
 using System.Drawing;
 using System.IO;

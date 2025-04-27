@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using NUnit.Framework.Legacy;
+using System.Collections.Generic;
 using System.Linq;
 using System.Security.AccessControl;
 using Microsoft.Win32;

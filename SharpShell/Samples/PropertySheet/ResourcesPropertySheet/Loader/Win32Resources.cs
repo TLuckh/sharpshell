@@ -1,4 +1,5 @@
-﻿namespace ResourcesPropertySheet.Loader
+﻿using NUnit.Framework.Legacy;
+namespace ResourcesPropertySheet.Loader
 {
     class Win32Resources
     {

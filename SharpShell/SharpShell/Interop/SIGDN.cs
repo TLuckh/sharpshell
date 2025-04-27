@@ -1,3 +1,4 @@
+using NUnit.Framework.Legacy;
 namespace SharpShell.Interop
 {
     /// <summary>Requests the form of an item's display name to retrieve through IShellItem::GetDisplayName and SHGetNameFromIDList.</summary>

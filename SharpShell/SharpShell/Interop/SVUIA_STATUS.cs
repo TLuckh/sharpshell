@@ -1,3 +1,4 @@
+using NUnit.Framework.Legacy;
 namespace SharpShell.Interop
 {
     /// <summary>

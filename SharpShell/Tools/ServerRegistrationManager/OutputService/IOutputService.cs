@@ -1,4 +1,5 @@
-﻿namespace ServerRegistrationManager.OutputService
+﻿using NUnit.Framework.Legacy;
+namespace ServerRegistrationManager.OutputService
 {
     /// <summary>
     /// Represents a service that is used to write output (perhaps to the console

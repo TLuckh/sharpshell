@@ -1,4 +1,5 @@
-﻿namespace SharpShell.Configuration
+﻿using NUnit.Framework.Legacy;
+namespace SharpShell.Configuration
 {
     /// <summary>
     /// Represents SharpShell system configuration.

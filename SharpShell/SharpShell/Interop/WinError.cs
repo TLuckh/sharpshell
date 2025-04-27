@@ -1,3 +1,4 @@
+using NUnit.Framework.Legacy;
 #pragma warning disable 1591
 namespace SharpShell.Interop
 {

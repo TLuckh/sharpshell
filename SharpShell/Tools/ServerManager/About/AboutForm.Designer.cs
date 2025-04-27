@@ -1,4 +1,5 @@
-﻿namespace ServerManager
+﻿using NUnit.Framework.Legacy;
+namespace ServerManager
 {
     partial class AboutForm
     {

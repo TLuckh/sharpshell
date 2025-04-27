@@ -1,4 +1,5 @@
-﻿namespace FileTimesPropertySheet
+﻿using NUnit.Framework.Legacy;
+namespace FileTimesPropertySheet
 {
     partial class FileTimesPropertyPage
     {

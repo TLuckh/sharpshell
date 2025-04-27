@@ -1,4 +1,5 @@
-﻿namespace SharpShell.Diagnostics.Loggers
+﻿using NUnit.Framework.Legacy;
+namespace SharpShell.Diagnostics.Loggers
 {
     /// <summary>
     /// Defines a contract for a type which can log messages.

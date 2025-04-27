@@ -98,6 +98,9 @@
     <Content Include="ExampleFiles\PurchaseOrder2.xml" />
     <Content Include="ExampleFiles\PurchaseOrder1.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="4.3.2" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>

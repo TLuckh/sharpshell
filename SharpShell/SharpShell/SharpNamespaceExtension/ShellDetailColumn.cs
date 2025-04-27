@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using NUnit.Framework.Legacy;
+using System.Reflection;
 
 namespace SharpShell.SharpNamespaceExtension
 {

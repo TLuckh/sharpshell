@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using NUnit.Framework.Legacy;
+using System.Diagnostics;
 
 namespace SharpShell.Diagnostics.Loggers
 {

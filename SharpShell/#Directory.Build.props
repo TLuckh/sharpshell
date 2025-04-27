@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup>
+        <TargetFramework>net461</TargetFramework>
+        <TargetFrameworkVersion>net461</TargetFrameworkVersion>
+    </PropertyGroup>
+</Project>

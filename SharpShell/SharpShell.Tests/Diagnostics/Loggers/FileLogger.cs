@@ -1,4 +1,5 @@
-﻿using System;
+using NUnit.Framework.Legacy;
+using System;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;

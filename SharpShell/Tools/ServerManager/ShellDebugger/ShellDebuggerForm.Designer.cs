@@ -1,4 +1,5 @@
-﻿namespace ServerManager.ShellDebugger
+﻿using NUnit.Framework.Legacy;
+namespace ServerManager.ShellDebugger
 {
     partial class ShellDebuggerForm
     {

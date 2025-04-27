@@ -1,3 +1,4 @@
+using NUnit.Framework.Legacy;
 using System.Windows.Forms;
 
 namespace SharpShell.SharpDeskBand

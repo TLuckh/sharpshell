@@ -1,4 +1,5 @@
-﻿namespace SharpShell.SharpNamespaceExtension
+﻿using NUnit.Framework.Legacy;
+namespace SharpShell.SharpNamespaceExtension
 {
     /// <summary>
     /// Specifies column alignment.

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NUnit.Framework.Legacy;
+using System;
 using System.Runtime.InteropServices;
 #pragma warning disable 1591
 

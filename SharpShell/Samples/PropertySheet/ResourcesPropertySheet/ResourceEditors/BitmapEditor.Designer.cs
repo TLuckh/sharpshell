@@ -1,4 +1,5 @@
-﻿namespace ResourcesPropertySheet.ResourceEditors
+﻿using NUnit.Framework.Legacy;
+namespace ResourcesPropertySheet.ResourceEditors
 {
     partial class BitmapEditor
     {

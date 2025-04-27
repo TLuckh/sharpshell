@@ -1,4 +1,5 @@
-﻿namespace SharpShell.Interop
+﻿using NUnit.Framework.Legacy;
+namespace SharpShell.Interop
 {
     // ReSharper disable InconsistentNaming
 

@@ -1,4 +1,5 @@
-﻿using SharpShell.Attributes;
+﻿using NUnit.Framework.Legacy;
+using SharpShell.Attributes;
 using SharpShell.SharpDeskBand;
 using System.Runtime.InteropServices;
 

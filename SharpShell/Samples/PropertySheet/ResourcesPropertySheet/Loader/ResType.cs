@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using NUnit.Framework.Legacy;
+using System.ComponentModel.DataAnnotations;
 // ReSharper disable IdentifierTypo, InconsistentNaming, UnusedMember.Global
 
 namespace ResourcesPropertySheet.Loader

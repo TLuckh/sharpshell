@@ -118,5 +118,8 @@
   <ItemGroup>
     <None Include="Resources\ResourcesIcon.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="4.3.2" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,4 +1,5 @@
-﻿using System.Runtime.InteropServices;   
+﻿using NUnit.Framework.Legacy;
+using System.Runtime.InteropServices;   
 using SharpShell.Attributes;
 using SharpShell.SharpPreviewHandler;
 

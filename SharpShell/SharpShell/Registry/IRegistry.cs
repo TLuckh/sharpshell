@@ -1,4 +1,5 @@
-﻿using Microsoft.Win32;
+﻿using NUnit.Framework.Legacy;
+using Microsoft.Win32;
 
 namespace SharpShell.Registry
 {

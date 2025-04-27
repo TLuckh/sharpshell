@@ -1,4 +1,5 @@
-﻿#pragma warning disable 1591
+﻿using NUnit.Framework.Legacy;
+#pragma warning disable 1591
 namespace SharpShell.SharpNamespaceExtension
 {
 // ReSharper disable InconsistentNaming

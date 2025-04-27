@@ -91,7 +91,9 @@
       <DependentUpon>IconPreviewHandlerControl.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="4.3.2" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="Properties\Dependencies\IconLib.dll" />
   </ItemGroup>

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NUnit.Framework.Legacy;
+using System;
 using System.Drawing;
 using SharpShell.Attributes;
 using SharpShell.Interop;

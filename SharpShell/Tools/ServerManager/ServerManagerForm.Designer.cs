@@ -1,4 +1,5 @@
-﻿using ServerManager.ServerDetails;
+﻿using NUnit.Framework.Legacy;
+using ServerManager.ServerDetails;
 
 namespace ServerManager
 {

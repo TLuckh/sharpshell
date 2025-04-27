@@ -1,4 +1,5 @@
-﻿using ServerRegistrationManager.OutputService;
+﻿using NUnit.Framework.Legacy;
+using ServerRegistrationManager.OutputService;
 using SharpShell.Diagnostics.Loggers;
 
 namespace ServerRegistrationManager.Actions

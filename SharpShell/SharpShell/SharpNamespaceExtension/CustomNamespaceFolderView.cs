@@ -1,4 +1,5 @@
-﻿using System.Windows.Forms;
+﻿using NUnit.Framework.Legacy;
+using System.Windows.Forms;
 using SharpShell.Interop;
 
 namespace SharpShell.SharpNamespaceExtension

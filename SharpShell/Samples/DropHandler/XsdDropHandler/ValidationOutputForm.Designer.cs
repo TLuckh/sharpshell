@@ -1,4 +1,5 @@
-﻿namespace XsdDropHandler
+﻿using NUnit.Framework.Legacy;
+namespace XsdDropHandler
 {
     partial class ValidationOutputForm
     {

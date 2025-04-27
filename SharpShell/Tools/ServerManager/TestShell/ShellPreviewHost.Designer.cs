@@ -1,4 +1,5 @@
-﻿namespace ServerManager.TestShell
+﻿using NUnit.Framework.Legacy;
+namespace ServerManager.TestShell
 {
     partial class ShellPreviewHost
     {

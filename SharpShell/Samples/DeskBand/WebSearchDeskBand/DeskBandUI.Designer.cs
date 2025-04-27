@@ -1,4 +1,5 @@
-﻿namespace WebSearchDeskBand
+﻿using NUnit.Framework.Legacy;
+namespace WebSearchDeskBand
 {
     partial class DeskBandUI
     {

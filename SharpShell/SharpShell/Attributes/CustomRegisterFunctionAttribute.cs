@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NUnit.Framework.Legacy;
+using System;
 using System.Linq;
 using System.Reflection;
 using SharpShell.ServerRegistration;

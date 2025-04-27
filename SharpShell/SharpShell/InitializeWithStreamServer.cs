@@ -1,4 +1,5 @@
-﻿using System.Runtime.InteropServices.ComTypes;
+﻿using NUnit.Framework.Legacy;
+using System.Runtime.InteropServices.ComTypes;
 using SharpShell.Helpers;
 using SharpShell.Interop;
 
