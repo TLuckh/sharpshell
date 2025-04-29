@@ -10,424 +10,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28799cc8-324d-40c6-8ba8-cc0b0fcf52aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/AdvancedContextMenuExtension/AdvancedContextMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/AdvancedContextMenuExtension/AdvancedContextMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/AdvancedContextMenuExtension/AdvancedContextMenuExtension.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/AdvancedContextMenuExtension/AdvancedContextMenuExtension.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/AdvancedContextMenuExtension/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/AdvancedContextMenuExtension/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/AdvancedContextMenuExtension/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/AdvancedContextMenuExtension/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/CopyDirectoryLocationHandler/CopyDirectoryLocationHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/CopyDirectoryLocationHandler/CopyDirectoryLocationHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/CopyDirectoryLocationHandler/CopyDirectoryLocationHandler.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/CopyDirectoryLocationHandler/CopyDirectoryLocationHandler.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/CopyDirectoryLocationHandler/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/CopyDirectoryLocationHandler/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/CountLinesExtension/CountLinesExtension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/CountLinesExtension/CountLinesExtension.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/CountLinesExtension/CountLinesExtension.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/CountLinesExtension/CountLinesExtension.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/CountLinesExtension/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/CountLinesExtension/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/CountLinesExtension/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/CountLinesExtension/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/DllContextMenuExtension/DllContextMenuExtension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/DllContextMenuExtension/DllContextMenuExtension.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/DllContextMenuExtension/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/DllContextMenuExtension/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/DynamicSubMenu/DynamicSubMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/DynamicSubMenu/DynamicSubMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/DynamicSubMenu/DynamicSubMenus.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/DynamicSubMenu/DynamicSubMenus.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/DynamicSubMenu/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/DynamicSubMenu/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/DynamicSubMenu/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/DynamicSubMenu/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/ExtendedViewContextMenuExtension/ExtendedViewContextMenuExtension.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/ExtendedViewContextMenuExtension/ExtendedViewContextMenuExtension.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/ExtendedViewContextMenuExtension/Extension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/ExtendedViewContextMenuExtension/Extension.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/ExtendedViewContextMenuExtension/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/ExtendedViewContextMenuExtension/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/MultipleExtensionsSample/Extension1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/MultipleExtensionsSample/Extension1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/MultipleExtensionsSample/Extension2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/MultipleExtensionsSample/Extension2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ContextMenu/MultipleExtensionsSample/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ContextMenu/MultipleExtensionsSample/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DataHandler/CopyPathDataHandler/CopyPathDataHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DataHandler/CopyPathDataHandler/CopyPathDataHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DataHandler/CopyPathDataHandler/CopyPathDataHandler.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DataHandler/CopyPathDataHandler/CopyPathDataHandler.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DataHandler/CopyPathDataHandler/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DataHandler/CopyPathDataHandler/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DeskBand/WebSearchDeskBand/DeskBandUI.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DeskBand/WebSearchDeskBand/DeskBandUI.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DeskBand/WebSearchDeskBand/DeskBandUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DeskBand/WebSearchDeskBand/DeskBandUI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DeskBand/WebSearchDeskBand/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DeskBand/WebSearchDeskBand/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DeskBand/WebSearchDeskBand/WebSearchDeskBand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DeskBand/WebSearchDeskBand/WebSearchDeskBand.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DeskBand/WebSearchDeskBand/WebSearchDeskBand.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DeskBand/WebSearchDeskBand/WebSearchDeskBand.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/ValidationOutputForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/ValidationOutputForm.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/ValidationOutputForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/ValidationOutputForm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/XsdDropHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/XsdDropHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/XsdDropHandler.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/XsdDropHandler.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/XsdValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/DropHandler/XsdDropHandler/XsdValidator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconHandler/DllIconHandler/DllIconHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconHandler/DllIconHandler/DllIconHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconHandler/DllIconHandler/DllIconHandler.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconHandler/DllIconHandler/DllIconHandler.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconHandler/DllIconHandler/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconHandler/DllIconHandler/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconHandler/DllIconHandler/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconHandler/DllIconHandler/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconOverlayHandler/LockedFileIconOverlayHandler/LockedFileIconOverlayHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconOverlayHandler/LockedFileIconOverlayHandler/LockedFileIconOverlayHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconOverlayHandler/LockedFileIconOverlayHandler/LockedFileIconOverlayHandler.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconOverlayHandler/LockedFileIconOverlayHandler/LockedFileIconOverlayHandler.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconOverlayHandler/LockedFileIconOverlayHandler/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconOverlayHandler/LockedFileIconOverlayHandler/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconOverlayHandler/LockedFileIconOverlayHandler/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconOverlayHandler/LockedFileIconOverlayHandler/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconOverlayHandler/ReadOnlyFileIconOverlayHandler/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconOverlayHandler/ReadOnlyFileIconOverlayHandler/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconOverlayHandler/ReadOnlyFileIconOverlayHandler/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconOverlayHandler/ReadOnlyFileIconOverlayHandler/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconOverlayHandler/ReadOnlyFileIconOverlayHandler/ReadOnlyFileIconOverlayHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconOverlayHandler/ReadOnlyFileIconOverlayHandler/ReadOnlyFileIconOverlayHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/IconOverlayHandler/ReadOnlyFileIconOverlayHandler/ReadOnlyFileIconOverlayHandler.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/IconOverlayHandler/ReadOnlyFileIconOverlayHandler/ReadOnlyFileIconOverlayHandler.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/InfoTipHandler/FolderInfoTipHandler/FolderInfoTipHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/InfoTipHandler/FolderInfoTipHandler/FolderInfoTipHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/InfoTipHandler/FolderInfoTipHandler/FolderInfoTipHandler.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/InfoTipHandler/FolderInfoTipHandler/FolderInfoTipHandler.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/InfoTipHandler/FolderInfoTipHandler/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/InfoTipHandler/FolderInfoTipHandler/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/EnvironmentVariablesNamespaceExtension/EnvironmentVariableNamespaceItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/EnvironmentVariablesNamespaceExtension/EnvironmentVariableNamespaceItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/EnvironmentVariablesNamespaceExtension/EnvironmentVariablesNamespaceExtension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/EnvironmentVariablesNamespaceExtension/EnvironmentVariablesNamespaceExtension.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/EnvironmentVariablesNamespaceExtension/EnvironmentVariablesNamespaceExtension.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/EnvironmentVariablesNamespaceExtension/EnvironmentVariablesNamespaceExtension.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/EnvironmentVariablesNamespaceExtension/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/EnvironmentVariablesNamespaceExtension/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/EnvironmentVariablesNamespaceExtension/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/EnvironmentVariablesNamespaceExtension/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/GitHubBranch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/GitHubBranch.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/GitHubNamespaceExtension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/GitHubNamespaceExtension.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/GitHubNamespaceExtension.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/GitHubNamespaceExtension.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/GitHubRepo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/GitHubRepo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/GithubContextMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/GithubContextMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/GitHubNamespaceExtension/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/KeyAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/KeyAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/RegistryKeyItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/RegistryKeyItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/RegistryNamespaceExtension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/RegistryNamespaceExtension.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/RegistryNamespaceExtension.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/RegistryNamespaceExtension/RegistryNamespaceExtension.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/TrivialNamespaceExtension/ExtensionViewControl.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/TrivialNamespaceExtension/ExtensionViewControl.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/TrivialNamespaceExtension/ExtensionViewControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/TrivialNamespaceExtension/ExtensionViewControl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/TrivialNamespaceExtension/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/TrivialNamespaceExtension/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/NamespaceExtension/TrivialNamespaceExtension/TrivialNamespaceExtension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/NamespaceExtension/TrivialNamespaceExtension/TrivialNamespaceExtension.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PreviewHandler/AbcPreviewHandler/AbcPreviewHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PreviewHandler/AbcPreviewHandler/AbcPreviewHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PreviewHandler/AbcPreviewHandler/AbcPreviewHandler.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PreviewHandler/AbcPreviewHandler/AbcPreviewHandler.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PreviewHandler/AbcPreviewHandler/AbcPreviewHandlerControl.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PreviewHandler/AbcPreviewHandler/AbcPreviewHandlerControl.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PreviewHandler/AbcPreviewHandler/AbcPreviewHandlerControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PreviewHandler/AbcPreviewHandler/AbcPreviewHandlerControl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PreviewHandler/AbcPreviewHandler/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PreviewHandler/AbcPreviewHandler/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PreviewHandler/IconPreviewHandler/IconPreviewHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PreviewHandler/IconPreviewHandler/IconPreviewHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PreviewHandler/IconPreviewHandler/IconPreviewHandler.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PreviewHandler/IconPreviewHandler/IconPreviewHandler.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PreviewHandler/IconPreviewHandler/IconPreviewHandlerControl.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PreviewHandler/IconPreviewHandler/IconPreviewHandlerControl.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PreviewHandler/IconPreviewHandler/IconPreviewHandlerControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PreviewHandler/IconPreviewHandler/IconPreviewHandlerControl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PreviewHandler/IconPreviewHandler/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PreviewHandler/IconPreviewHandler/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/FileTimesPropertySheet/FileTimesPropertyPage.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/FileTimesPropertySheet/FileTimesPropertyPage.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/FileTimesPropertySheet/FileTimesPropertyPage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/FileTimesPropertySheet/FileTimesPropertyPage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/FileTimesPropertySheet/FileTimesPropertySheet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/FileTimesPropertySheet/FileTimesPropertySheet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/FileTimesPropertySheet/FileTimesPropertySheet.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/FileTimesPropertySheet/FileTimesPropertySheet.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/FileTimesPropertySheet/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/FileTimesPropertySheet/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet.Tests/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet.Tests/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet.Tests/ResourceLoaderTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet.Tests/ResourceLoaderTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet.Tests/ResourcesPropertySheet.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet.Tests/ResourcesPropertySheet.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/ResType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/ResType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/ResourceLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/ResourceLoader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/Win32Resource.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/Win32Resource.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/Win32ResourceName.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/Win32ResourceName.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/Win32ResourceType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/Win32ResourceType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/Win32Resources.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Loader/Win32Resources.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourceEditors/BitmapEditor.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourceEditors/BitmapEditor.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourceEditors/BitmapEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourceEditors/BitmapEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourceEditors/IResourceEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourceEditors/IResourceEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourceEditors/IconEditor.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourceEditors/IconEditor.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourceEditors/IconEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourceEditors/IconEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourcesPropertySheet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourcesPropertySheet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourcesPropertySheet.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourcesPropertySheet.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourcesView.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourcesView.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourcesView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/PropertySheet/ResourcesPropertySheet/ResourcesView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ThumbnailHandler/TxtThumbnailHandler/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ThumbnailHandler/TxtThumbnailHandler/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ThumbnailHandler/TxtThumbnailHandler/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ThumbnailHandler/TxtThumbnailHandler/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ThumbnailHandler/TxtThumbnailHandler/Renderer/TextThumbnailRenderer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ThumbnailHandler/TxtThumbnailHandler/Renderer/TextThumbnailRenderer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ThumbnailHandler/TxtThumbnailHandler/TxtThumbnailHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ThumbnailHandler/TxtThumbnailHandler/TxtThumbnailHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/ThumbnailHandler/TxtThumbnailHandler/TxtThumbnailHandler.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/ThumbnailHandler/TxtThumbnailHandler/TxtThumbnailHandler.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharedAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharedAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/Diagnostics/Loggers/FileLogger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/Diagnostics/Loggers/FileLogger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/Helpers/Win32HelperTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/Helpers/Win32HelperTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/PidlManagerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/PidlManagerTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/Registry/InMemoryRegistryKeyTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/Registry/InMemoryRegistryKeyTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/Registry/InMemoryRegistryTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/Registry/InMemoryRegistryTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/Registry/WindowsRegistryKeyTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/Registry/WindowsRegistryKeyTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/Registry/WindowsRegistryTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/Registry/WindowsRegistryTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/ServerRegistration/FileExtensionClassTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/ServerRegistration/FileExtensionClassTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/ServerRegistration/ServerRegistrationManagerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/ServerRegistration/ServerRegistrationManagerTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/ServiceRegistry/ServiceRegistryTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/ServiceRegistry/ServiceRegistryTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/SharpShell.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/SharpShell.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell.Tests/ShellInteropTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell.Tests/ShellInteropTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Attributes/AssociationType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Attributes/AssociationType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Attributes/COMServerAssociationAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Attributes/COMServerAssociationAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Attributes/CustomRegisterFunctionAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Attributes/CustomRegisterFunctionAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Attributes/CustomUnregisterFunctionAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Attributes/CustomUnregisterFunctionAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Attributes/DisplayNameAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Attributes/DisplayNameAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Attributes/HandlerSubkeyAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Attributes/HandlerSubkeyAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Attributes/PredefinedShellObjectAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Attributes/PredefinedShellObjectAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Attributes/RegistrationNameAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Attributes/RegistrationNameAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Attributes/ServerTypeAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Attributes/ServerTypeAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Attributes/SpecialClassKeyAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Attributes/SpecialClassKeyAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Components/CategoryManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Components/CategoryManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Components/ExtractIconImpl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Components/ExtractIconImpl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Configuration/LoggingMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Configuration/LoggingMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Configuration/SystemConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Configuration/SystemConfiguration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Configuration/SystemConfigurationProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Configuration/SystemConfigurationProvider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Diagnostics/ExplorerConfigurationManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Diagnostics/ExplorerConfigurationManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Diagnostics/ExplorerManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Diagnostics/ExplorerManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Diagnostics/Loggers/DebugLogger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Diagnostics/Loggers/DebugLogger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Diagnostics/Loggers/EventLogLogger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Diagnostics/Loggers/EventLogLogger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Diagnostics/Loggers/FileLogger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Diagnostics/Loggers/FileLogger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Diagnostics/Loggers/ILogger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Diagnostics/Loggers/ILogger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Diagnostics/Logging.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Diagnostics/Logging.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Exceptions/ServerRegistrationException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Exceptions/ServerRegistrationException.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Extensions/ControlExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Extensions/ControlExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Extensions/EnumExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Extensions/EnumExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Extensions/GuidExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Extensions/GuidExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Extensions/IDataObjectExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Extensions/IDataObjectExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Helpers/BitmapHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Helpers/BitmapHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Helpers/ComStream.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Helpers/ComStream.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Helpers/RegAsm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Helpers/RegAsm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Helpers/Win32Helper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Helpers/Win32Helper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ISharpShellServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ISharpShellServer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/InitializeWithFileServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/InitializeWithFileServer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/InitializeWithItemServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/InitializeWithItemServer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/InitializeWithStreamServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/InitializeWithStreamServer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/ASSOCCLASS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/ASSOCCLASS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/ASSOCIATIONELEMENT.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/ASSOCIATIONELEMENT.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/BITMAPV5HEADER.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/BITMAPV5HEADER.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/CATEGORYINFO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/CATEGORYINFO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/CLIPFORMAT.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/CLIPFORMAT.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/CLSCTX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/CLSCTX.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/CMF.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/CMF.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/CMIC.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/CMIC.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/CMINVOKECOMMANDINFO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/CMINVOKECOMMANDINFO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/CMINVOKECOMMANDINFOEX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/CMINVOKECOMMANDINFOEX.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/COLORREF.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/COLORREF.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/CSFV.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/CSFV.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/CSIDL.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/CSIDL.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/Comctl32.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/Comctl32.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/DEFCONTEXTMENU.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/DEFCONTEXTMENU.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/DESKBANDINFO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/DESKBANDINFO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/DIB.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/DIB.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/DLGTEMPLATE.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/DLGTEMPLATE.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/DRAWITEMSTRUCT.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/DRAWITEMSTRUCT.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/EXTRASEARCH.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/EXTRASEARCH.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/FILE_ATTRIBUTE.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/FILE_ATTRIBUTE.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/FOLDERFLAGS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/FOLDERFLAGS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/FOLDERSETTINGS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/FOLDERSETTINGS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/FOLDERVIEWMODE.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/FOLDERVIEWMODE.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/FontCharSet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/FontCharSet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/FontClipPrecision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/FontClipPrecision.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/FontPitchAndFamily.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/FontPitchAndFamily.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/FontPrecision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/FontPrecision.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/FontQuality.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/FontQuality.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/FontWeight.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/FontWeight.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/GCS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/GCS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/GILInFlags.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/GILInFlags.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/GILOutFlags.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/GILOutFlags.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/ICatRegister.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/ICatRegister.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/ICommDlgBrowser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/ICommDlgBrowser.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IContextMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IContextMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IContextMenu2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IContextMenu2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IContextMenu3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IContextMenu3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IContextMenuCB.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IContextMenuCB.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IDefaultExtractIconInit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IDefaultExtractIconInit.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IDeskBand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IDeskBand.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IDeskBand2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IDeskBand2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IDockingWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IDockingWindow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IDropTarget.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IDropTarget.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IEnumExtraSearch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IEnumExtraSearch.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IEnumIDList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IEnumIDList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IExtractIconA.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IExtractIconA.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IExtractIconW.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IExtractIconW.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IFolderView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IFolderView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IImageList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IImageList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IInitializeWithFile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IInitializeWithFile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IInitializeWithItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IInitializeWithItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IInitializeWithStream.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IInitializeWithStream.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IInputObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IInputObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IInputObjectSite.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IInputObjectSite.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IMAGEINFO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IMAGEINFO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IMAGELISTDRAWPARAMS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IMAGELISTDRAWPARAMS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IOleWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IOleWindow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IPersist.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IPersist.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IPersistFolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IPersistFolder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IPersistFolder2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IPersistFolder2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IPersistIDList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IPersistIDList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IPersistStream.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IPersistStream.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IPreviewHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IPreviewHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IPreviewHandlerFrame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IPreviewHandlerFrame.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IPreviewHandlerVisuals.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IPreviewHandlerVisuals.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IQueryInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IQueryInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/ISIOI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/ISIOI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IServiceProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IServiceProvider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IShellBrowser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IShellBrowser.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IShellDetails.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IShellDetails.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IShellExtInit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IShellExtInit.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IShellFolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IShellFolder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IShellFolder2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IShellFolder2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IShellFolderViewCB.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IShellFolderViewCB.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IShellIconOverlayIdentifier.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IShellIconOverlayIdentifier.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IShellItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IShellItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IShellPropSheetExt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IShellPropSheetExt.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IShellView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IShellView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/IThumbnailProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/IThumbnailProvider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/KNOWN_FOLDER_FLAG.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/KNOWN_FOLDER_FLAG.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/Kernel32.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/Kernel32.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/KnownFolders.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/KnownFolders.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/LOGFONT.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/LOGFONT.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/LVCFMT.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/LVCFMT.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/MARGINS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/MARGINS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/MEASUREITEMSTRUCT.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/MEASUREITEMSTRUCT.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/MENUITEMINFO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/MENUITEMINFO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/MFS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/MFS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/MFT.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/MFT.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/MIIM.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/MIIM.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/MSG.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/MSG.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/NMHDR.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/NMHDR.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/OLEMENUGROUPWIDTHS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/OLEMENUGROUPWIDTHS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/Ole32.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/Ole32.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/POINT.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/POINT.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/PREVIEWHANDLERFRAMEINFO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/PREVIEWHANDLERFRAMEINFO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/PROPERTYKEY.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/PROPERTYKEY.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/PROPSHEETHEADER.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/PROPSHEETHEADER.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/PROPSHEETPAGE.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/PROPSHEETPAGE.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/PSH.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/PSH.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/PSN.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/PSN.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/PSP.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/PSP.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/PSPCB.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/PSPCB.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/QITIPF.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/QITIPF.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/RECT.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/RECT.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SBSP.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SBSP.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SCHIDS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SCHIDS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SEE.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SEE.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SFGAO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SFGAO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SFV_CREATE.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SFV_CREATE.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SHCOLSTATE.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SHCOLSTATE.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SHCOLUMNID.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SHCOLUMNID.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SHCONTF.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SHCONTF.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SHELLDETAILS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SHELLDETAILS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SHELLEXECUTEINFO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SHELLEXECUTEINFO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SHFILEINFO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SHFILEINFO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SHGFI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SHGFI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SIGDN.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SIGDN.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SIZE.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SIZE.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/STATFLAG.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/STATFLAG.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/STGM.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/STGM.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/STRRET.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/STRRET.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/SVUIA_STATUS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/SVUIA_STATUS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/Shell32.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/Shell32.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/Shlwapi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/Shlwapi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/TBBUTTON.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/TBBUTTON.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/User32.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/User32.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/Uxtheme.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/Uxtheme.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/WTS_ALPHATYPE.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/WTS_ALPHATYPE.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/WinError.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/WinError.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/WindowStyles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/WindowStyles.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/WindowsMessages.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/WindowsMessages.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/_SVGIO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/_SVGIO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Interop/_SVSIF.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Interop/_SVSIF.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/NativeBridge/NativeBridge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/NativeBridge/NativeBridge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/PersistFileServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/PersistFileServer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Pidl/IdList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Pidl/IdList.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Pidl/PidlManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Pidl/PidlManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Pidl/ShellId.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Pidl/ShellId.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Registry/IRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Registry/IRegistry.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Registry/IRegistryKey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Registry/IRegistryKey.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Registry/InMemoryRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Registry/InMemoryRegistry.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Registry/InMemoryRegistryKey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Registry/InMemoryRegistryKey.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Registry/WindowsRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Registry/WindowsRegistry.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/Registry/WindowsRegistryKey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/Registry/WindowsRegistryKey.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ServerRegistration/ClassRegistration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ServerRegistration/ClassRegistration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ServerRegistration/FileExtensionClass.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ServerRegistration/FileExtensionClass.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ServerRegistration/RegistrationType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ServerRegistration/RegistrationType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ServerRegistration/ServerRegistationType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ServerRegistration/ServerRegistationType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ServerRegistration/ServerRegistrationManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ServerRegistration/ServerRegistrationManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ServerRegistration/ShellExtensionRegistrationInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ServerRegistration/ShellExtensionRegistrationInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ServerRegistration/ShellExtensionType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ServerRegistration/ShellExtensionType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ServerRegistration/SpecialRegistryClass.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ServerRegistration/SpecialRegistryClass.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ServerType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ServerType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ServiceRegistry/ServiceRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ServiceRegistry/ServiceRegistry.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpContextMenu/InvokeCommandInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpContextMenu/InvokeCommandInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpContextMenu/NativeContextMenuWrapper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpContextMenu/NativeContextMenuWrapper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpContextMenu/PARGB32.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpContextMenu/PARGB32.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpContextMenu/SharpContextMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpContextMenu/SharpContextMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpDataHandler/SharpDataHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpDataHandler/SharpDataHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpDeskBand/BandOptions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpDeskBand/BandOptions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpDeskBand/SharpDeskBand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpDeskBand/SharpDeskBand.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpDropHandler/SharpDropHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpDropHandler/SharpDropHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpIconHandler/SharpIconHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpIconHandler/SharpIconHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpIconOverlayHandler/SharpIconOverlayHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpIconOverlayHandler/SharpIconOverlayHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpInfoTipHandler/SharpInfoTipHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpInfoTipHandler/SharpInfoTipHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/AttributeFlags.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/AttributeFlags.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ColumnAlignment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ColumnAlignment.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/CustomNamespaceFolderView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/CustomNamespaceFolderView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/DefaultNamespaceFolderView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/DefaultNamespaceFolderView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/DisplayNameContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/DisplayNameContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/IShellNamespaceFolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/IShellNamespaceFolder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/IShellNamespaceFolderContextMenuProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/IShellNamespaceFolderContextMenuProvider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/IShellNamespaceItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/IShellNamespaceItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/NamespaceExtensionAvailability.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/NamespaceExtensionAvailability.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/NamespaceExtensionJunctionPointAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/NamespaceExtensionJunctionPointAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/NamespaceExtensionRegistrationSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/NamespaceExtensionRegistrationSettings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/PropertyKey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/PropertyKey.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/PropertyKeyAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/PropertyKeyAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/RegistryKeyAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/RegistryKeyAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/SharpNamespaceExtension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/SharpNamespaceExtension.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellDetailColumn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellDetailColumn.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellFolderImpl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellFolderImpl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellFolderProxy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellFolderProxy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellNamespaceEnumerationFlags.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellNamespaceEnumerationFlags.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellNamespaceFolderIdListEnumerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellNamespaceFolderIdListEnumerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellNamespaceFolderView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellNamespaceFolderView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellViewHost.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/ShellViewHost.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/StandardPropertyKey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/StandardPropertyKey.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/VirtualFolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpNamespaceExtension/VirtualFolder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpPreviewHandler/PreviewHandlerAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpPreviewHandler/PreviewHandlerAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpPreviewHandler/PreviewHandlerControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpPreviewHandler/PreviewHandlerControl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpPreviewHandler/PreviewHandlerHost.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpPreviewHandler/PreviewHandlerHost.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpPreviewHandler/PreviewHandlerRegistrar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpPreviewHandler/PreviewHandlerRegistrar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpPreviewHandler/SharpPreviewHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpPreviewHandler/SharpPreviewHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpPropertySheet/PropertyPageProxy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpPropertySheet/PropertyPageProxy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpPropertySheet/SharpPropertyPage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpPropertySheet/SharpPropertyPage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpPropertySheet/SharpPropertySheet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpPropertySheet/SharpPropertySheet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpShell.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpShell.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpShellServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpShellServer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpThumbnailHandler/SharpItemThumbnailHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpThumbnailHandler/SharpItemThumbnailHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/SharpThumbnailHandler/SharpThumbnailHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/SharpThumbnailHandler/SharpThumbnailHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpShell/ShellExtInitServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharpShell/ShellExtInitServer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerInspector/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerInspector/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerInspector/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerInspector/MainWindow.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerInspector/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerInspector/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerInspector/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerInspector/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerInspector/Properties/Settings.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerInspector/Properties/Settings.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerInspector/Servers/ServerViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerInspector/Servers/ServerViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerInspector/Servers/ServersView.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerInspector/Servers/ServersView.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerInspector/Servers/ServersViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerInspector/Servers/ServersViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/About/AboutForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/About/AboutForm.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/About/AboutForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/About/AboutForm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ObjectExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ObjectExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/Properties/Settings.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/Properties/Settings.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ServerDetails/ServerDetailsView.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ServerDetails/ServerDetailsView.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ServerDetails/ServerDetailsView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ServerDetails/ServerDetailsView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ServerEntry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ServerEntry.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ServerManager.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ServerManager.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ServerManagerApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ServerManagerApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ServerManagerForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ServerManagerForm.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ServerManagerForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ServerManagerForm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ShellDebugger/ShellDebuggerForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ShellDebugger/ShellDebuggerForm.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ShellDebugger/ShellDebuggerForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ShellDebugger/ShellDebuggerForm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ShellDebugger/ShellTreeEventArgs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ShellDebugger/ShellTreeEventArgs.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/ShellDebugger/ShellTreeView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/ShellDebugger/ShellTreeView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/TestShell/ShellPreviewHost.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/TestShell/ShellPreviewHost.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/TestShell/ShellPreviewHost.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/TestShell/ShellPreviewHost.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/TestShell/ShellThumbnailHost.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/TestShell/ShellThumbnailHost.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/TestShell/ShellThumbnailHost.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/TestShell/ShellThumbnailHost.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/TestShell/TestShellForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/TestShell/TestShellForm.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerManager/TestShell/TestShellForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerManager/TestShell/TestShellForm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Actions/ConfigAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Actions/ConfigAction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Actions/EnableEventLogAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Actions/EnableEventLogAction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Actions/ShowHelpAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Actions/ShowHelpAction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Application.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Application.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerRegistrationManager/OutputService/ConsoleOutputService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerRegistrationManager/OutputService/ConsoleOutputService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerRegistrationManager/OutputService/IOutputService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerRegistrationManager/OutputService/IOutputService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerRegistrationManager/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ServerRegistrationManager/ServerRegistrationManager.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ServerRegistrationManager/ServerRegistrationManager.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ShellExtensionManager/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ShellExtensionManager/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ShellExtensionManager/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ShellExtensionManager/MainWindow.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ShellExtensionManager/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ShellExtensionManager/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ShellExtensionManager/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ShellExtensionManager/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ShellExtensionManager/Properties/Settings.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ShellExtensionManager/Properties/Settings.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ShellExtensionManager/ShellExtensionManager.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ShellExtensionManager/ShellExtensionManager.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ShellExtensionManager/ShellExtensions/ExtensionView.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ShellExtensionManager/ShellExtensions/ExtensionView.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ShellExtensionManager/ShellExtensions/ExtensionViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ShellExtensionManager/ShellExtensions/ExtensionViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ShellExtensionManager/ShellExtensions/ShellExtensionsView.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ShellExtensionManager/ShellExtensions/ShellExtensionsView.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/ShellExtensionManager/ShellExtensions/ShellExtensionsViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/ShellExtensionManager/ShellExtensions/ShellExtensionsViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SharpShell/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SharpShell/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Full Regression Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Install Servers.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/ContextMenus/NotATextFile.txx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/ContextMenus/ReadOnlyTextFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/ContextMenus/TextFile1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/ContextMenus/TextFile2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/IconHandlers/SharpShell.all" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/IconHandlers/SharpShell.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/IconHandlers/SharpShellNativeBridge64.all" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/IconHandlers/SharpShellNativeBridge64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/IconOverlays/New Microsoft Excel Worksheet.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/IconOverlays/ReadOnlyFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/IconOverlays/ReadWriteFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/PreviewHandlers/Icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/PropertySheets/Other Text File.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/PropertySheets/TextFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/ThumbnailHandlers/Sample Text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestData/ThumbnailHandlers/Simple HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Uninstall Servers.bat" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -472,23 +74,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.ServerManager">
     <configuration name="ServerManager" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -582,6 +184,9 @@
       <workItem from="1745760269931" duration="6277000" />
       <workItem from="1745766760367" duration="3094000" />
       <workItem from="1745772131373" duration="645000" />
+      <workItem from="1745774127620" duration="801000" />
+      <workItem from="1745776245761" duration="3123000" />
+      <workItem from="1745884729945" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="Framework set to 4.6.2, missing imports">
       <option name="closed" value="true" />
